@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eadd55c7-7e04-488d-a5cc-6525784a0267" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eN1adrA1jEcke99ddP2o1xRne4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.SimpleTesting">
+    <configuration name="SimpleTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleTesting" />
+      <module name="TestGitIgnore" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestGitIgnore" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SimpleTesting" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SimpleTesting" />
+        <item itemvalue="Application.SimpleTesting" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eadd55c7-7e04-488d-a5cc-6525784a0267" name="Default Changelist" comment="" />
+      <created>1594147300715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594147300715</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="271" key="GridCell.Tab.0.bottom" timestamp="1594147850905">
+      <screen x="-1920" y="23" width="1920" height="1000" />
+    </state>
+    <state width="1878" height="271" key="GridCell.Tab.0.bottom/-1920.23.1920.1000/0.23.1680.1027@-1920.23.1920.1000" timestamp="1594147850905" />
+    <state width="1878" height="271" key="GridCell.Tab.0.center" timestamp="1594147850904">
+      <screen x="-1920" y="23" width="1920" height="1000" />
+    </state>
+    <state width="1878" height="271" key="GridCell.Tab.0.center/-1920.23.1920.1000/0.23.1680.1027@-1920.23.1920.1000" timestamp="1594147850904" />
+    <state width="1878" height="271" key="GridCell.Tab.0.left" timestamp="1594147850903">
+      <screen x="-1920" y="23" width="1920" height="1000" />
+    </state>
+    <state width="1878" height="271" key="GridCell.Tab.0.left/-1920.23.1920.1000/0.23.1680.1027@-1920.23.1920.1000" timestamp="1594147850903" />
+    <state width="1878" height="271" key="GridCell.Tab.0.right" timestamp="1594147850904">
+      <screen x="-1920" y="23" width="1920" height="1000" />
+    </state>
+    <state width="1878" height="271" key="GridCell.Tab.0.right/-1920.23.1920.1000/0.23.1680.1027@-1920.23.1920.1000" timestamp="1594147850904" />
+  </component>
+</project>
