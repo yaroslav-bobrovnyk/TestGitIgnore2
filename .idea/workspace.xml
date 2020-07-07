@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eadd55c7-7e04-488d-a5cc-6525784a0267" name="Default Changelist" comment="" />
+    <list default="true" id="eadd55c7-7e04-488d-a5cc-6525784a0267" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eN1adrA1jEcke99ddP2o1xRne4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,6 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager" selected="JUnit.SimpleTesting">
     <configuration name="SimpleTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -61,21 +69,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="271" key="GridCell.Tab.0.bottom" timestamp="1594147850905">
+    <state x="-1094" y="428" key="Github.ShareDialog" timestamp="1594148275641">
       <screen x="-1920" y="23" width="1920" height="1000" />
     </state>
-    <state width="1878" height="271" key="GridCell.Tab.0.bottom/-1920.23.1920.1000/0.23.1680.1027@-1920.23.1920.1000" timestamp="1594147850905" />
-    <state width="1878" height="271" key="GridCell.Tab.0.center" timestamp="1594147850904">
+    <state x="-1094" y="428" key="Github.ShareDialog/-1920.23.1920.1000/0.23.1680.1027@-1920.23.1920.1000" timestamp="1594148275641" />
+    <state x="-1159" y="229" key="Github.UntrackedFilesDialog" timestamp="1594148004734">
       <screen x="-1920" y="23" width="1920" height="1000" />
     </state>
-    <state width="1878" height="271" key="GridCell.Tab.0.center/-1920.23.1920.1000/0.23.1680.1027@-1920.23.1920.1000" timestamp="1594147850904" />
-    <state width="1878" height="271" key="GridCell.Tab.0.left" timestamp="1594147850903">
+    <state x="-1159" y="229" key="Github.UntrackedFilesDialog/-1920.23.1920.1000/0.23.1680.1027@-1920.23.1920.1000" timestamp="1594148004734" />
+    <state width="1878" height="271" key="GridCell.Tab.0.bottom" timestamp="1594147948003">
       <screen x="-1920" y="23" width="1920" height="1000" />
     </state>
-    <state width="1878" height="271" key="GridCell.Tab.0.left/-1920.23.1920.1000/0.23.1680.1027@-1920.23.1920.1000" timestamp="1594147850903" />
-    <state width="1878" height="271" key="GridCell.Tab.0.right" timestamp="1594147850904">
+    <state width="1878" height="271" key="GridCell.Tab.0.bottom/-1920.23.1920.1000/0.23.1680.1027@-1920.23.1920.1000" timestamp="1594147948003" />
+    <state width="1878" height="271" key="GridCell.Tab.0.center" timestamp="1594147948002">
       <screen x="-1920" y="23" width="1920" height="1000" />
     </state>
-    <state width="1878" height="271" key="GridCell.Tab.0.right/-1920.23.1920.1000/0.23.1680.1027@-1920.23.1920.1000" timestamp="1594147850904" />
+    <state width="1878" height="271" key="GridCell.Tab.0.center/-1920.23.1920.1000/0.23.1680.1027@-1920.23.1920.1000" timestamp="1594147948002" />
+    <state width="1878" height="271" key="GridCell.Tab.0.left" timestamp="1594147948002">
+      <screen x="-1920" y="23" width="1920" height="1000" />
+    </state>
+    <state width="1878" height="271" key="GridCell.Tab.0.left/-1920.23.1920.1000/0.23.1680.1027@-1920.23.1920.1000" timestamp="1594147948002" />
+    <state width="1878" height="271" key="GridCell.Tab.0.right" timestamp="1594147948003">
+      <screen x="-1920" y="23" width="1920" height="1000" />
+    </state>
+    <state width="1878" height="271" key="GridCell.Tab.0.right/-1920.23.1920.1000/0.23.1680.1027@-1920.23.1920.1000" timestamp="1594147948003" />
   </component>
 </project>
